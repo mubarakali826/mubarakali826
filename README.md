@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Express JS**
 
-- 👨‍💻 All of my projects are available at [https://mubarakali.work)
+- 👨‍💻 All of my projects are available at [https://mubarakali.online)
 
 - 💬 Ask me about **MERN stack technologies**
 
