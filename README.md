@@ -79,7 +79,7 @@ const MubarakAli = {
 
     experience: "1.5+ Years",
 };
-
+```
 💻 Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,ts,js,mongodb,postgres,mysql,firebase,docker,git,github,tailwind,redux,figma,php,django,reactivex&perline=10" />
